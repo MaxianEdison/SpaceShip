@@ -5,4 +5,4 @@ run: main
 	./main
 
 clean: 
-	$(RM) main
+	rm -f main
