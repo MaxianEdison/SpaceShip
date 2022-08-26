@@ -3,11 +3,11 @@
 This is a simple game written in C language. by running the following commands, you can build, run or clean the game.
 
 ```
-$ make
+make
 ```
 ```
-$ make run
+make run
 ```
 ```
-$ make clean
+make clean
 ```
